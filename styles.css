@@ -26,19 +26,19 @@
   }
   
   .pimg1{
-    background-image:url('assets/img24.jpg');
+    background-image:url('img24.jpg');
     min-height:100%;
   }
   
   .pimg2{
     /* background-image:url('assets/img4.jpg'); */
-    background-image:url('assets/img28.jpg');
+    background-image:url('img28.jpg');
 
     min-height:400px;
   }
   
   .pimg3{
-    background-image:url('assets/img23.jpeg');
+    background-image:url('img23.jpeg');
     min-height:400px;
   }
   
